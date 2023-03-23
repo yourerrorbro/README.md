@@ -7,17 +7,17 @@
 <h1 align="center"> Hey there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Meet Patel</h1>
+         width="45" /> I'm Shivam Thaker</h1>
          
 <!--- > *Hey there 👋 ,* -->
 
-> *I’m a Bachelors and Passionate in **Senior iOS App Development **. You can check me on Social Link below to see my works : 👇*
+> *I’m a Bachelors and Passionate in **Senior iOS & React Native App Development **. You can check me on Social Link below to see my works : 👇*
 
 <!--- - [Resume](https://drive.google.com/file/d/1gchAfTDmpDYNXZ_HA1cz1TAFo-mi8hA3/view?usp=sharing) -->
 
-<!--- - [LinkedIn](https://in.linkedin.com/in/patelmeet12)
+- [LinkedIn](http://www.linkedin.com/in/shivam-thakar-546144238)
 
-- [Twitter](https://twitter.com/patelmeet_12)
+- [Twitter](https://twitter.com/iOSCook)
 
 - [Skype](https://join.skype.com/invite/vV7Ept1jnDXx)
 
