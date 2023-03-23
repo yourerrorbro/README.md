@@ -15,7 +15,7 @@
 
 <!--- - [Resume](https://drive.google.com/file/d/1gchAfTDmpDYNXZ_HA1cz1TAFo-mi8hA3/view?usp=sharing) -->
 
-- [LinkedIn](http://www.linkedin.com/in/shivam-thakar-546144238)
+<!--- - [LinkedIn](http://www.linkedin.com/in/shivam-thakar-546144238)
 
 - [Twitter](https://twitter.com/iOSCook)
 
