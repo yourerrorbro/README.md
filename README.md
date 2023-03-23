@@ -30,17 +30,17 @@
 [![Twitter](https://img.shields.io/twitter/follow/patelmeet_12?logo=Twitter&style=for-the-badge)](https://twitter.com/patelmeet_12) --->
 
 <p align="center">
-	<a href="mailto:patelmeet0809@gmail.com"><img src="https://img.icons8.com/bubbles/500/null/gmail.png" width="90" alt="Gmail"/></a>
-	<a href="https://github.com/patelmeet12"><img src="https://img.icons8.com/bubbles/500/000000/github.png" width="90" alt="GitHub"/></a>
-	<a href="https://in.linkedin.com/in/patelmeet12"><img src="https://img.icons8.com/bubbles/500/null/linkedin.png" width="90" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/patelmeet_12"><img src="https://img.icons8.com/bubbles/500/null/twitter-circled.png" width="90" alt="Twitter"/></a>
-	<a href="https://join.skype.com/invite/vV7Ept1jnDXx"><img src="https://img.icons8.com/bubbles/500/null/skype.png" width="90" alt="Skype"/></a>
-	<a href="https://medium.com/@patelmeet12"><img src="https://img.icons8.com/bubbles/500/null/medium-new.png" width="90" alt="Medium"/></a>
-	<a href="https://www.instagram.com/meetsurani12"><img src="https://img.icons8.com/bubbles/500/null/instagram-new--v1.png" width="90" alt="Instagram"/></a>
+	<a href="mailto:yourerrorbro@gmail.com"><img src="https://img.icons8.com/bubbles/500/null/gmail.png" width="90" alt="Gmail"/></a>
+	<a href="https://github.com/yourerrorbro"><img src="https://img.icons8.com/bubbles/500/000000/github.png" width="90" alt="GitHub"/></a>
+	<a href="http://www.linkedin.com/in/shivam-thakar-546144238"><img src="https://img.icons8.com/bubbles/500/null/linkedin.png" width="90" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/iOSCook"><img src="https://img.icons8.com/bubbles/500/null/twitter-circled.png" width="90" alt="Twitter"/></a>
+	<a href="https://join.skype.com/invite/wQ4MoKz2wbKv"><img src="https://img.icons8.com/bubbles/500/null/skype.png" width="90" alt="Skype"/></a>
+	<a href="https://medium.com/@yourerrorbro"><img src="https://img.icons8.com/bubbles/500/null/medium-new.png" width="90" alt="Medium"/></a>
+	<!--- <a href="https://www.instagram.com/meetsurani12"><img src="https://img.icons8.com/bubbles/500/null/instagram-new--v1.png" width="90" alt="Instagram"/></a> -->
 </p>
 
 
-- 🔭 I’m currently working on iOS 
+- 🔭 I’m currently working on iOS & React Native
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about Mobile Development
 <!--- - 📧 Reach out to me at patelmeet0809@gmail.com --->
@@ -51,38 +51,38 @@
 	<a href="https://www.apple.com"><img src="https://img.icons8.com/bubbles/500/null/mac-os.png" width="90" alt="Medium"/></a>
 </p>
 
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=radical)
+![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourerrorbro&show_icons=true&theme=radical)
 
-<a href="https://github.com/patelmeet12">
-    <img src="https://github-stats-alpha.vercel.app/api?username=patelmeet12&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="https://github.com/yourerrorbro">
+    <img src="https://github-stats-alpha.vercel.app/api?username=yourerrorbro&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
 <!--- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmeet12&layout=compact&theme=vue"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourerrorbro&layout=compact&theme=vue"/>
 </p>
 
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=radical)
+![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourerrorbro&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelmeet12&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourerrorbro&layout=compact&theme=radical)
 
-![Meet's github activity graph](https://activity-graph.herokuapp.com/graph?username=patelmeet12&theme=dracula)
+![Meet's github activity graph](https://activity-graph.herokuapp.com/graph?username=yourerrorbro&theme=dracula)
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patelmeet12&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourerrorbro&theme=vue"/>
 </p>
 
 ## 📟 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmeet12&layout=compact&theme=vue"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourerrorbro&layout=compact&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=patelmeet12&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourerrorbro&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourerrorbro&theme=vue" />
 </p> --->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelmeet12&label=Views&color=blue&style=plastic&style=for-the-badge" alt="patelmeet12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourerrorbro&label=Views&color=blue&style=plastic&style=for-the-badge" alt="yourerrorbro" /> </p>
 
 ***Thank You For Watching! :+1:***
